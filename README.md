@@ -1,2 +1,2 @@
 # Fajar-Resolusi
-Repository untuk menyimpan rencana Fajar kedepannya
+Repository untuk menyimpan rencana/apapun tentang Fajar kedepannya
